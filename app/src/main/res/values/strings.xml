@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="titulo">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="masculino">masculino</string>
+    <string name="femenino">femenino</string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="cine">Cine</string>
+    <string name="gym">Gym</string>
+    <string name="nadar">Nadar</string>
+    <string name="rpassword">Confirmar contraseña</string>
+    <string name="password">Contraseña nueva</string>
+    <string name="genero">Género: </string>
+    <string name="otro">Otro</string>
+    <string name="nacimiento">Luegar de nacimiento: </string>
+    <string name="date">Fecha de Nacimiento: </string>
+    <string name="pick_date">DD/MM/AAAA</string>
+    <string name="musica">Musica</string>
+</resources>
